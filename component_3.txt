@@ -1,1 +1,2 @@
 This is my third component!
+add update to third component.
