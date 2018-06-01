@@ -1,1 +1,2 @@
 This is my second component!
+add update to second component.
